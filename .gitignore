@@ -1,0 +1,8 @@
+batch/dist/
+!batch/dist/dp.js
+batch/ipe/
+!batch/ipe/header.ipe
+!batch/ipe/footer.ipe
+batch/node_modules/
+visualizer/dist/main.js
+visualizer/node_modules/

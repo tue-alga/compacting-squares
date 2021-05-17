@@ -1,0 +1,14 @@
+{
+  "name": "compacting-squares-batch",
+  "version": "1.0.0",
+  "description": "Batch runner for our modular robot reconfiguration algorithms",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc --module commonjs --moduleResolution node --outDir ./dist/ --strict --target es2015 src/*.ts src/algorithms/*.ts"
+  },
+  "author": "Willem Sonke",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "@types/node": "^15.3.0"
+  }
+}
