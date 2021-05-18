@@ -1,4 +1,4 @@
-This is an implementation of our algorithm Gather&Compact for modular robot reconfiguration. This implementation contains an interactive web-based visualizer, which allows for drawing instances and running the Gather&Compact algorithm on them. The visualizer can be accessed directly [here](https://alga.win.tue.nl/software/compacting-squares/visualizer). There is also a batch tool for running experiments.
+This is an implementation of our algorithm Gather&Compact for modular robot reconfiguration. This implementation contains an interactive web-based visualizer, which allows for drawing instances and running the Gather&Compact algorithm on them. The visualizer can be accessed directly [here](https://alga.win.tue.nl/software/compacting-squares/visualizer/index.html). There is also a batch tool for running experiments.
 
 For more information we refer to our [paper](https://arxiv.org/abs/2105.07997)
 
